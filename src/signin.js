@@ -68,6 +68,8 @@ export default function App() {
             <input type='search' className='form-control' placeholder='Type query' aria-label='Search' />
             <MDBBtn color='primary'>Search</MDBBtn>
           </form>
+
+          
         </MDBCollapse>
       </MDBContainer>
     </MDBNavbar>
